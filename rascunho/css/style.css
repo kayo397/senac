@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.finalizacoes {
+    margin-top: 100px;
+}
+
+.g {
+    position: relative;
+    top: -300px;
+    left: 300px;
+}
+
+.t {
+    position: relative;
+    left: -200px;
+}
+
+.a {
+    position: relative;
+    top: -320px;
+    left: 500px;
+}
+
+.l {
+    position: relative;
+    left: 400px;
+}
+
+.video {
+    position: relative;
+    left: 500px;
+    top: -200px;
+}
